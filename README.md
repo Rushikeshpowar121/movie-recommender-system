@@ -52,24 +52,24 @@ Movie_recommender_system/
 git clone https://github.com/your-username/movie-recommender-system.git
 cd movie-recommender-system
 
-###✅ 2. Create a Virtual Environment
+### ✅ 2. Create a Virtual Environment
 
 python -m venv venv
 source venv/bin/activate        # macOS/Linux
-# OR
+ OR
 venv\Scripts\activate           # Windows
 
-###✅ 3. Install Dependencies
+### ✅ 3. Install Dependencies
 
 pip install -r requirements.txt
 
-###✅ 4. Add Your TMDb API Key
+### ✅ 4. Add Your TMDb API Key
 
 Create a .env file in the root directory with the following content:
 TMDB_API_KEY=your_tmdb_api_key_here
 🔐 Important: Keep your .env file private and don’t push it to GitHub.
 
-###✅ 5. Run the App
+### ✅ 5. Run the App
 
 streamlit run Main.py
 
