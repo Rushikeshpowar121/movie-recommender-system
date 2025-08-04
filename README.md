@@ -42,13 +42,13 @@ Movie_recommender_system/
 ├── movies.pkl              # Movie dataset with title and ID
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
-
+```
 
 ## 🧑‍💻 Setup Instructions
 
 ### ✅ 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/your-username/movie-recommender-system.git
 cd movie-recommender-system
 
