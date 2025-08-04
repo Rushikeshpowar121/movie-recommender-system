@@ -2,7 +2,8 @@
 
 A beautiful, responsive, and interactive **Movie Recommender Web App** built using **Streamlit**, powered by **content-based filtering** using movie similarity.
 
-![App Screenshot](https://image.tmdb.org/t/p/w500/your_example_poster_path.jpg) <!-- Replace with actual poster or screenshot -->
+![App Screenshot] <!-- Replace with actual poster or screenshot -->
+<img width="1418" height="822" alt="Screenshot 2025-08-04 at 11 41 11 PM" src="https://github.com/user-attachments/assets/7220b11b-9e18-4521-ae76-941ccc18fdf7" />
 
 ---
 
